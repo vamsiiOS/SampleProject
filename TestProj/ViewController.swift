@@ -15,9 +15,14 @@ class ViewController: UIViewController {
         //Hi
         //This is sample project
         //UP
+
         //fghkhjk
         //fkjklfjh
         
+
+        print("Crash1")
+        print("Crash2")
+
     }
 
 
